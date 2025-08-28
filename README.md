@@ -1,5 +1,3 @@
-<!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/neha-err/neha-err/main/images/banner.png)
 
 <!-- Visitor Badge -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=neha-err&style=flat-square)
