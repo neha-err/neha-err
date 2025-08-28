@@ -9,6 +9,17 @@
 - 💻 Python enthusiast specializing in automation, web development and data science.
 - 🤝 I love contributing to open-source projects and collaborating with developers worldwide.
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=Python SQL, Deep learning, Machine Learning, Automation testing, scikit-learn, NumPy, TensorFlow,OpenCV, AWS" />
+  <img src="https://skillicons.dev/icons?i=Django, Flask, RestAssured, Docker, Git, Github, VSCode, Devops, Jenkins, Jupyter" />
+</p>
+
+<hr>
+
 ## 💡 Skills
 - **Languages:** Python, SQL, deep learning, Machine learning
 - **Frameworks:** Django, Flask, FastAPI
