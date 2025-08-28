@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,vim, mysql,aws,bitbucket,django, ai,flask, restassured, github, vscode, jenkins, linux, opencv, selenium" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,vim, mysql,aws,bitbucket,django,ai,flask,github,vscode,jenkins,linux,opencv,selenium" />
 
   </a>
 <hr>
