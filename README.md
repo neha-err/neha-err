@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**neha-err/neha-err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Neha, a passionate Python developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 About Me
+- 💻 Python enthusiast specializing in automation, web development and data science.
+- 🤝 I love contributing to open-source projects and collaborating with developers worldwide.
+
+## 💡 Skills
+- **Languages:** Python, SQL, deep learning, Machine learning
+- **Frameworks:** Django, Flask, FastAPI
+- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
+- **Tools:** Docker, Git, GitHub Actions, VSCode
+- **Database:** PostgreSQL, SQLite
+
+## 🚀 Projects
+- [Task Manager](https://github.com/neha-err/task-manager) — A Django web app for managing tasks and deadlines.
+- [Data Analysis Toolkit](https://github.com/neha-err/data-analysis-toolkit) — Python tools for data wrangling and visualization.
+
+## 📚 Certifications & Learning
+- Coursera: Python for Everybody
+- Udemy: Machine Learning with Python
+- Currently learning: Devops
+
+## 📫 Contact
+- Email: mneha3546@gmail.com
+- LinkedIn: [your-linkedin](your-linkedin-url)
+
+## 📊 GitHub Stats
+![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha-err&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-err&layout=compact)
+
+---
+
+Thank you for visiting my profile!
