@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+![Banner](https://raw.githubusercontent.com/neha-err/neha-err/main/images/banner.png)
+
+<!-- Visitor Badge -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=neha-err&style=flat-square)
 
 <img src="https://github.com/neha-err/neha-err/blob/main/Software%20Engineer.webp" alt="Banner of a developer sitting in front of a desk">
 
