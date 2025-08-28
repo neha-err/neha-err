@@ -3,6 +3,8 @@
 
 I'm Neha, a passionate Python developer!
 
+<img src="[https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png](https://github.com/neha-err/neha-err/blob/main/Software%20Engineer.webp)" alt="Banner of a developer sitting in front of a desk">
+
 ## 🐍 About Me
 - 💻 Python enthusiast specializing in automation, web development and data science.
 - 🤝 I love contributing to open-source projects and collaborating with developers worldwide.
