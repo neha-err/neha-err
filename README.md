@@ -12,11 +12,10 @@
 ## 🛠️ Languages and Tools
 
 <br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Python SQL, Deep learning, Machine Learning, Automation testing, scikit-learn, NumPy, TensorFlow,OpenCV, AWS" />
-  <img src="https://skillicons.dev/icons?i=Django, Flask, RestAssured, Docker, Git, Github, VSCode, Devops, Jenkins, Jupyter" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,vim," />
+  </a>
 
 <hr>
 
