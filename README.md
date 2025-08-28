@@ -14,17 +14,12 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,vim," />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,vim, sql, deep learning, machine learning, automation testing" />
+    <img src="https://skillicons.dev/icons?i=django, flask, restassured, github, vscode, devops, jenkins, jupyter" />
 
+  </a>
 <hr>
 
-## 💡 Skills
-- **Languages:** Python, SQL, deep learning, Machine learning
-- **Frameworks:** Django, Flask, FastAPI
-- **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
-- **Tools:** Docker, Git, GitHub Actions, VSCode
-- **Database:** PostgreSQL, SQLite
 
 ## 🚀 Projects
 - [Task Manager](https://github.com/neha-err/task-manager) — A Django web app for managing tasks and deadlines.
